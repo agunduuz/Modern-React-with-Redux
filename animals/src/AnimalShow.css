@@ -1,0 +1,16 @@
+.animal-show{
+    position: relative;
+    border: 1px solid #BED754;
+    padding: 10px;
+    border-radius: 5px;
+    margin: 10px;
+    box-shadow: 0 0 15px #BED754, 0 0 5px #BED754;
+    transition: all ease 0.3s;
+}
+.animal-show:hover{
+    border: 1px solid #E3651D;
+    box-shadow: 0 0 15px #E3651D, 0 0 5px #E3651D;
+}
+
+.animal-show .animal{height: 200px; width: 200px;}
+.animal-show .heart{position: absolute; bottom: 10%; right: 10%;}
