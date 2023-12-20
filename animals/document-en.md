@@ -366,3 +366,6 @@ function AnimalShow({ type }) {
 - **Reusable Components**: Make components reusable. For example, **`AnimalShow`** can be used for many different animal types.
 - **CSS Modules or Styled Components**: Consider using approaches like CSS Modules or styled-components to prevent style conflicts.
 - **State Lifting**: Sometimes, multiple child components may need to use the same data. In such cases, lifting the state to the parent component can be a good solution.
+![FireShot Capture 073 - React App - localhost](https://github.com/agunduuz/Modern-React-with-Redux/assets/76620858/615199fc-83b5-4a45-830f-c56bda9016cb)
+
+  

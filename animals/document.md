@@ -388,3 +388,5 @@ function AnimalShow({ type }) {
 - **Reusable Components**: Komponentleri yeniden kullanılabilir yapın. Örneğin, **`AnimalShow`** birçok farklı hayvan türü için kullanılabilir.
 - **CSS Modules or Styled Components**: Stil çakışmalarını önlemek için CSS Modülleri veya styled-components gibi yaklaşımları kullanmayı düşünün.
 - **State Lifting**: Bazen, birden fazla alt komponentin aynı veriyi kullanması gerekebilir. Bu durumda, durumu üst komponente taşımak (state lifting) iyi bir çözüm olabilir.
+![FireShot Capture 073 - React App - localhost](https://github.com/agunduuz/Modern-React-with-Redux/assets/76620858/ea4e35d7-d28e-497b-bd1c-e83903f42080)
+
